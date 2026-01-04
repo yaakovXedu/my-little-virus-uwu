@@ -1,1 +1,1 @@
-Just edit shortcut icon to chrome.ico and viola! 
+Just create a shortcut to bat file with chrome.ico icon and viola! 
